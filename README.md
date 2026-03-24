@@ -30,7 +30,9 @@ My primary focus is **Data Analytics and Science**—extracting real-world value
   * **How I built it:** Designed the architecture and generated the core backend logic entirely through advanced prompt engineering, proving how AI can be used to independently deploy complete software tools.
 
 * **Other AI-Assisted Builds:**
-  * Rapidly prototyped an **Online Code Compiler** and interactive web games to test the limits of automated development and API integrations.
+ * **[Cosmic Timeline (https://cosmictimeline.netlify.app/):** An interactive, visual journey through the history of the universe, prototyped using AI to handle complex chronological data and responsive design.
+
+* **Rapidly prototyped** an **Online Code Compiler** and interactive web games to test the limits of automated development and API integrations.
 
 ### 📫 Let's Connect!
 
