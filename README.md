@@ -1,4 +1,4 @@
-# Hi, I'm Raj Guru! 👋
+# Hi, I'm Raj! 👋
 
 ### Data Analyst & AI-Empowered Developer
 
